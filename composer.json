@@ -15,7 +15,7 @@
   },
 
   "autoload": {
-    "psr-4": {"Qiniu\\": "src/Juzhang"},
+    "psr-4": {"Juzhang\\": "src/Juzhang"},
     "files": ["src/juzhang/functions.php"]
   }
 }
