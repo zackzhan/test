@@ -10,4 +10,8 @@ class Test {
     public function second() {
         echo 'second hello';
     }
+
+    public function qq() {
+        echo 'qqq';
+    }
 }
