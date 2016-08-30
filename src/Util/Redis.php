@@ -9,7 +9,7 @@
  * @version $Id: Redis.php, v ${VERSION} 8/29/16 10:27 AM Exp $
  */
 
-namespace Juzhang\Util;
+namespace Juzhang\Test\Util;
 
 class Redis {
     private $redis;

@@ -9,7 +9,7 @@
  * @version $Id: Array.php, v ${VERSION} 8/29/16 3:23 PM Exp $
  */
 
-namespace Juzhang\Helper;
+namespace Juzhang\Test\Helper;
 
 class CiArray {
 

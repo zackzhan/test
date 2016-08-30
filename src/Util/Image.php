@@ -9,7 +9,7 @@
  * @version $Id: Image.php, v ${VERSION} 8/29/16 10:28 AM Exp $
  */
 
-namespace Juzhang\Util;
+namespace Juzhang\Test\Util;
 
 class Image {
     // *** Class variables

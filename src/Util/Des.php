@@ -9,7 +9,7 @@
  * @version $Id: Des.php, v ${VERSION} 8/29/16 11:00 AM Exp $
  */
 
-namespace Juzhang\Util;
+namespace Juzhang\Test\Util;
 
 class Des {
 

@@ -15,7 +15,7 @@
   },
 
   "autoload": {
-    "psr-4": {"Juzhang\\test\\": "src/"},
-    "files": ["src/juzhang/functions.php"]
+    "psr-4": {"Juzhang\\Test\\": "src/"},
+    "files": ["src/functions.php"]
   }
 }

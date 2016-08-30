@@ -8,7 +8,7 @@
  * @author   zhanjuzhang <zhanjuzhang@gmail.com>
  * @version $Id: Test.php, v ${VERSION} 8/29/16 10:42 AM Exp $
  */
-namespace Juzhang\Util;
+namespace Juzhang\Test\Util;
 
 class Test {
     

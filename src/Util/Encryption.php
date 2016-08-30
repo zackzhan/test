@@ -9,7 +9,7 @@
  * @version $Id: Encryption.php, v ${VERSION} 8/29/16 11:00 AM Exp $
  */
 
-namespace Juzhang\Util;
+namespace Juzhang\Test\Util;
 
 class Encryption {
     private $skey            = "ieiskillingme"; // you can change it
